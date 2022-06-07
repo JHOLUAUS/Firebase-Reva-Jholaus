@@ -1,0 +1,7 @@
+{
+  "name": "Ejercicio-Firebase-Reva",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
